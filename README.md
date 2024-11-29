@@ -24,6 +24,6 @@ A simple Android game built using Kotlin where the player controls a car that mo
 3. Build and run the app on an emulator or physical device.
 
 How to Play
-Move Left: Tap or swipe left to move the car to the left.
-Move Right: Tap or swipe right to move the car to the right.
-Avoid colliding with incoming cars. If you crash, the game ends.
+- Move Left: Tap or swipe left to move the car to the left.
+- Move Right: Tap or swipe right to move the car to the right.
+- Avoid colliding with incoming cars. If you crash, the game ends.
